@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a second year Computer Science undergraduate at University of Colombo School of Computing. I'm a quick learner and problem solver who is passionate to improve software engineering skills. 😄😄😄
+
 <!--
 **CharithSathsara/CharithSathsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
